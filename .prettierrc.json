@@ -1,0 +1,6 @@
+{
+  "trailingComma": "es5",
+  "arrowParens": "always",
+  "tabwidth": 2,
+  "quoteProps": "as-needed"
+}
